@@ -1,0 +1,89 @@
+img.icon{
+	float: right;
+	width: 20px;
+	padding: 5px;
+}	
+
+h1{
+	text-align: center;
+	
+}
+
+.header {
+	text-align:center;
+}
+
+#w3c {
+	clear: both;
+}
+
+div, table, td{
+	
+	background-color: #FDF4B7;
+	color: #F0599A;
+	font-family: "Lucida Console",Monaco, monospace;
+	border-style: solid;
+	border-color: #90CAF7;
+	margin-top: 5em;
+	margin-left: 10em;
+	margin-right: 10em;
+	padding: 3em;	
+}
+
+img.buy{
+	width: 300px;
+	padding-bottom: 10px;
+	display:block;
+    margin:auto;
+}
+
+table.item{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.ship{
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+	}
+	
+p.ship{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+fieldset{
+	border: none;	
+}
+
+.button {
+	background-color: #90CAF7;
+	color: #F0599A;
+	
+}
+
+.signUp {
+	background-color: #90CAF7;
+	color: #F0599A;
+	float: right;
+	
+}
+
+a {
+	color: #F0599A;
+	
+}
+
+
+
+p.top{
+	text-align: center;
+}
+
+legend {
+	background-color: #FDF4B7;
+	border: 2px outset #90CAF7;
+	padding: 0.2em;
+}
+

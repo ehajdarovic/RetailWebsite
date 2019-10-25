@@ -1,0 +1,20 @@
+F1,White Boots,50.00
+F2,Color Block Sweater,35.00
+F3,Smiley Sweater,15.00
+F4,Might Tee,10.00
+F5,Cheese is Life Tee,12.00
+F6,White & Blue Puma Sneakers,30.00
+F7,B&W Striped Pants,20.00
+F8,B&G Swirl Pants,22.50
+F9,Black Overall Dress,16.00
+F10,Heart Dress,18.60
+M1,Astroworld Hoodie,54.00
+M2,Pink Champion Hoodie,50.00
+M3,Pasdemer Red Tee,15.00
+M4,Pasdemer White Tee,15.00
+M5,Black/White Track Pants,18.00
+M6,Black/Pink Track Pants,18.00
+M7,FILA White Sneakers,30.00
+M8,Floral Print Converse,46.50
+M9,Orange Jacket,28.00
+M10,Greet Jacket,28.00
